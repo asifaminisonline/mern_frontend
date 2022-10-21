@@ -1,0 +1,13 @@
+.cards{
+    margin: 50px;
+    color: black;
+    justify-content: center;
+}
+
+.ant-card-meta-title , .ant-card-meta-description{
+    text-align: center;
+    justify-content: center;
+}
+.card {
+    text-align: center;
+}

@@ -1,0 +1,32 @@
+#footer{
+   background-color: #0d6efd;
+   opacity: .8;
+    padding-top: 30px;
+}
+#footer .footer-sec
+{
+    padding: 5px;
+}
+#footer h4{
+    text-align: center;
+    color: white;  
+}
+#footer p{
+    color: white;  
+    padding: 10px;
+}
+#footer hr{
+    color:white;
+}
+
+.footer-sec ul li ,a{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    padding-left: 30px;
+    
+}
+:hover ul li a{
+    color: white;
+    
+}
